@@ -1,1 +1,2 @@
 # SGPA-CGPA-CALCULATOR
+"An intuitive SGPA/CGPA calculator website simplifying academic evaluation. Input your marks, credits, and let our platform swiftly compute your Semester Grade Point Average (SGPA) and Cumulative Grade Point Average (CGPA). Streamlining academic assessment, our user-friendly interface ensures efficient calculation, aiding students in tracking their academic progress seamlessly."
